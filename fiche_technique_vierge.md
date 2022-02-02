@@ -8,4 +8,4 @@
 # Explications sur mise en espace:
 # Composantes techniques:
 # Éléments nécéssaire pour mise en exposition:
-# Expérience vécue (Description expérience de l'oeuvre, ce qui m'a plu):
+# Expérience vécue (Description expérience de l'oeuvre, ce qui m'a plu, Aspect dur a retenir):
