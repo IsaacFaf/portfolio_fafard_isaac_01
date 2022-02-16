@@ -15,6 +15,6 @@ Machine qui fait des châteaux de sables.
 # Explications sur mise en espace:
 Machine a tapis roulant qui transporte le sable jusqu'au moule pour en transformer en chateau de sable via la compression exercé de celle-ci. 
 # Composantes techniques:
-Mouvement de translation du 
+Mouvement de translation du tapis roulant qui transmet le sable jusqu'à un entonoir qui envoie le sable à nouveau sur le tapis roulant au début du cycle.
 # Éléments nécéssaire pour mise en exposition:
 # Expérience vécue (Description expérience de l'oeuvre, ce qui m'a plu, Aspect dur a retenir):
