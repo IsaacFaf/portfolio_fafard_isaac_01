@@ -18,3 +18,4 @@ Machine a tapis roulant qui transporte le sable jusqu'au moule pour en transform
 Mouvement de translation du tapis roulant qui transmet le sable jusqu'à un entonoir qui envoie le sable à nouveau sur le tapis roulant au début du cycle.
 # Éléments nécéssaire pour mise en exposition:
 # Expérience vécue (Description expérience de l'oeuvre, ce qui m'a plu, Aspect dur a retenir):
+Expérience hypnotisante, nous avons le goût de voir cette effet continue pendant un bon moment. Un art complexe au niveau technique mais simple et efficace.
