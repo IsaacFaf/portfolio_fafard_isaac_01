@@ -20,13 +20,21 @@ ou 4 bouttons sont situé à chaque extrémitée pour répondre au question pos�
 l'animateur qui pose des questions. Sa nous rajoute une dynamique dans le quiz.
 ## Composantes techniques:
 2 Haut-parleurs actifs de 4
+
 2 Fils XLR 3 conducteurs de 15
+
 Interface audio USB disposant 2 sorties
+
 2 projecteurs vidéo lentille standard
+
 2 systèmes d'acrochage
+
 1 Arduino
+
 4 boutons d'arcade
+
 2 cordons IEC
+
 2 extensions
 
 
