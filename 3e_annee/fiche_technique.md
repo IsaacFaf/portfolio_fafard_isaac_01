@@ -41,7 +41,8 @@ Interface audio USB disposant 2 sorties
 
 ## Éléments nécéssaire pour mise en exposition:
 Projecteur, présentoire, fil électrique, écran, boutton a pression et salle.
-#Expérience vécue (Description expérience de l'oeuvre, ce qui m'a plu, Aspect dur a retenir):
+
+## Expérience vécue (Description expérience de l'oeuvre, ce qui m'a plu, Aspect dur a retenir):
 C'est un quiz sur le climat en général. Il est conçue pour que les gens échouent la majoritée du temps.
 L'aspect actualité m'a beaucoup plu aussi, l'arrivée du masque sur le narrateur pendant le quiz,
 les bugs informatiques comme l'introduction du monde numérique et plusieurs subtilitées.
