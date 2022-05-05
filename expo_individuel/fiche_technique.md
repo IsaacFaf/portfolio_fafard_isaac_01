@@ -24,13 +24,21 @@ Plusieurs trou dans le dôme ou se cache les projecteurs pour projeter les anima
 3 violoncelles est en avant des chaises (pouff) à environ 3 à 4 mètre du mur.
 # Composantes techniques:
 Une régie avec console de son et lumière.
+
 Un ordinateur pour la soundtrack audio avant le début du spectacle.
+
 Un ordinateur pour l'éxecution de l'animation sur les murs.
+
 3 Violoncelles
+
 3 système de robotisation pour violoncelle
+
 Plusieurs rallonges
+
 Grand stand pour les violoncelles
+
 Dôme
+
 ![IMG_1091](https://user-images.githubusercontent.com/89608287/167011344-a32916c9-e17a-4b6b-935b-2a43d31a6654.JPG)
 ![IMG_1085](https://user-images.githubusercontent.com/89608287/167011353-799e623b-a522-4366-bae1-323181df72f5.JPG)
 ![IMG_1088](https://user-images.githubusercontent.com/89608287/167011380-d4e4f84e-61a2-41da-9585-9f33511fd3a9.JPG)
@@ -38,6 +46,7 @@ Dôme
 
 # Éléments nécéssaire pour mise en exposition:
 Électricité
+
 Viloncelle accordée
 ![IMG_1089](https://user-images.githubusercontent.com/89608287/167011424-f3d13992-50c7-4234-a894-ad7313d8fff5.JPG)
 
