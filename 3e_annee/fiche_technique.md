@@ -46,6 +46,7 @@ https://user-images.githubusercontent.com/89608287/166991479-a191efa9-602d-43a3-
 Projecteur, présentoire, fil électrique, écran, boutton a pression et salle.
 
 ## Expérience vécue (Description expérience de l'oeuvre, ce qui m'a plu, Aspect dur a retenir):
+Au départ, cet expérience était mon troisième choix mais j'ai changé d'avis après mainte réflexion.
 C'est un quiz sur le climat en général. Il est conçue pour que les gens échouent la majoritée du temps.
 L'aspect actualité m'a beaucoup plu aussi, l'arrivée du masque sur le narrateur pendant le quiz,
 les bugs informatiques comme l'introduction du monde numérique et plusieurs subtilitées.
