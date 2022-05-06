@@ -10,9 +10,13 @@ Empty Vessel est avant tout une oeuvre réalisé en 2019 crée par David Gardene
 accueilli avant de rentrer dans le dôme par un bar charmant pour prendre un drink avant ce petit concert. Je suis aller visiter cette oeuvre le 28 avril à 19h. L'installation de celle-ci
 est plutôt complexe au niveau technique. En abbrégé, il y a un stand surélevé à environ 4 à 5 mètre du mur du dôme ou trois violoncelle sont installés et branché par une centaine de fils
 électrique pour automatiser ceux-ci. Le dôme a plusieurs petit trou ou se cache plusieurs projecteurs qui diffuse l'animation partout autour du dôme. Il y a plusieurs ordinateurs ainsi que
-des consoles en régie qui permettent le déroulement du concert. L'oeuvre est tellement fascinante, l'aspect numérique est hallucinant. Les animations projetées sur le dôme nous donnaient
+des consoles en régie qui permettent le déroulement du concert.
+
+L'oeuvre est tellement fascinante, l'aspect numérique est hallucinant. Les animations projetées sur le dôme nous donnaient
 l'impressions qu'il n'avait pas de toit, nous étions projetés dans un monde différent et incroyable. Les réalisateurs jouent avec la 3D pour nous donner l'impression que les objets se rapproche
-réellement. Sans compter l'intélligence artificielle. Lors de l'expérience, j'ignorais qu'une grande partie de la musique émit par les violons était improvisé sur le moment présent.
+réellement.
+
+Sans compter l'intélligence artificielle. Lors de l'expérience, j'ignorais qu'une grande partie de la musique émit par les violons était improvisé sur le moment présent.
 Effectivement, suite à mes recherches, l'intélligence artificielle est utilisé pour improvisé la musique des violoncelles voulant que chaque représentation du concert soient tout le temps
 différent. Je n'aurais pas pus deviner que c'était une intélligence artificielle par moi-même tellement que c'était bien fait et je trouves pertinants dans faire part. Cette oeuvre
 est de loin la plus impressionnante oeuvre immersive que j'ai pus assister. Elle est très inspirante la jonction de musique d'instrument avec l'animation a été un succès. Je n'ai rien
