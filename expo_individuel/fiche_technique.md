@@ -57,3 +57,6 @@ de l'intélligence artificiel et non programmé. L'animation prend en compte que
 elle était bien faite. J'ai même invité la prof à visiter l'expérience en vantant l'oeuvre.
 ![IMG_1102](https://user-images.githubusercontent.com/89608287/167011315-e2f1e86c-5f62-4e06-9698-f6ce5c316128.JPG)
 ![IMG_1090](https://user-images.githubusercontent.com/89608287/167011517-c055149f-c722-4e95-9287-32681696aca9.JPG)
+# Référence
+https://sat.qc.ca/sites/default/files/empty_vessels_par_eric_cohen_-_effet_pogonat.mp3   [FAQ]
+https://sat.qc.ca/fr/empty-vessels   [Information de la Société des Arts Technologiques]
