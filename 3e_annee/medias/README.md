@@ -1,1 +1,1 @@
-Ce dossier comporte les images prisent de l'oeuvre.
+Ce dossier comporte les images prisent de l'oeuvre en question
