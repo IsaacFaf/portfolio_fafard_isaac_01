@@ -1,1 +1,1 @@
-Dans ce dossier, nous retrouverons tout les informations à propos de l'oeuvre Mecanismes de Bechard et Hudon
+Dans ce dossier, nous retrouverons tous les informations à propos de l'œuvre Mecanismes de Bechard et Hudon
