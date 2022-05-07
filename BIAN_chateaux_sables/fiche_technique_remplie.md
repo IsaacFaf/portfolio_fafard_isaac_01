@@ -1,25 +1,25 @@
 # Titre:
-Oeuvre de sable.
+Œuvre de sable.
 # Artiste:
 Michel De Broin
 # Année de réalisation:
 2015
-# Nom de l'exposition ou évênement:
+# Nom de l'exposition ou évènement:
 Les châteaux de sables dans l'évènement Métamorphosus
 # Lieu d'exposition:
 Arsenal
 # Date de visite:
 9 février 2022
-# Description de l'oeuvre:
-Machine qui fait des châteaux de sables.
+# Description de l'œuvre:
+L'œuvre est un robot qui reproduit un château de sable dans le but qu'il s'effondre pour en recréé un. Ça ressemble un peu au tapis roulant des caisses pour mettre nos achats sauf qu'il transporte du sable et des moules créent un château dessus lorsque le sable est immobilisé au centre du robot.
 # Explications sur mise en espace:
-Machine a tapis roulant qui transporte le sable jusqu'au moule pour en transformer en chateau de sable via la compression exercé de celle-ci. Toute est en méchanisme de translation. Le sable doit rester humide pour créé un chateau un minimum solide mais pas trop pour qu'il bouche l'entonnoir ou le tuyau qui achemine le sable jusqu'au début.
+Machine a tapis roulant qui transporte le sable jusqu'au moule pour en transformer en château de sable via la compression exercé de celle-ci. Toute est en mécanismes de translation. Le sable doit rester humide pour créer un château un minimum solide mais pas trop pour qu'il bouche l'entonnoir ou le tuyau qui achemine le sable jusqu'au début. Le déroulement marche en continue mais demande un entretient d'humidité ainsi que nettoyage accrue.
 # Composantes techniques:
-Mouvement de translation du tapis roulant qui transmet le sable jusqu'à un entonoir qui envoie le sable à nouveau sur le tapis roulant au début du cycle. Un moule est utilisé avec la bonne quantitée de sable.
-# Éléments nécéssaire pour mise en exposition:
+Mouvement de translation du tapis roulant qui transmet le sable jusqu'à un entonnoir qui envoie le sable à nouveau sur le tapis roulant au début du cycle. Un moule est utilisé avec la bonne quantité de sable.
+# Éléments nécessaire pour mise en exposition:
 Tapis roulant, console de mise en marche, nettoyage fréquent.
-# Expérience vécue (Description expérience de l'oeuvre, ce qui m'a plu, Aspect dur a retenir):
-Expérience hypnotisante, nous avons le goût de voir cette effet continue pendant un bon moment. Un art complexe au niveau technique mais simple et efficace.
+# Expérience vécue (Description expérience de l'œuvre, ce qui m'a plu, Aspect dur a retenir):
+Expérience hypnotisant, nous avons le goût de voir cette effet continue pendant un bon moment. Un art complexe au niveau technique mais simple et efficace.
 # Image:
 ![IMG_0794](https://user-images.githubusercontent.com/89608287/155259382-862d8e58-e8e4-432c-a53b-f0f2825781d6.JPG)
 ![IMG_0795](https://user-images.githubusercontent.com/89608287/155259393-4f9a1b15-843e-48c1-a3bf-0d63cff1a3e6.JPG)
