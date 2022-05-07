@@ -1,5 +1,5 @@
 # Introduction
-Bonjour, aujourd'hui je vais vous présenter l'oeuvre que j'ai visité dans le cadre de mon cours de Documentation. L'oeuvre que je vous présenterez est un melange d'immersion
+Bonjour, aujourd'hui je vais vous présenter l'oeuvre que j'ai visité dans le cadre de mon cours de Documentation. L'oeuvre que je vous présente est un melange d'immersion
 numérique et de concert musicale improvisé. Le nom de l'oeuvre est Empty Vessels et met en vedette 3 violoncelle avec une installation pour robotiser ces violoncelles afin qu'ils
 jouent par eux-même à l'aide de l'intélligence artificielle. Accompagnée de projection 3D, Empty Vessels est une exposition qui a été présenté environ une dizaine de fois seulement dont 5
 fois en 2022. Elle démontre l'univers numérique en terme artistique tout au long du concert et ce fut fort intéressant. J'ai été agréablement surpris du déroulement du concert
